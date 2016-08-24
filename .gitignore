@@ -90,3 +90,4 @@ ENV/
 将删除 .idea/
 将删除 manage.py
 将删除 mysite/
+db.sqlite3
